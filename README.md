@@ -1,8 +1,8 @@
-# NexusAI - Multi-Agent RAG Chatbot
+# Multi-Agent RAG Chatbot
 
-![NexusAI Logo](https://img.shields.io/badge/Nexus-AI-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 
-NexusAI is a powerful, full-stack AI chatbot designed for advanced document analysis and web exploration. It combines high-performance web scraping (Crawl4AI), vector storage (FAISS), and LLM-powered reasoning (LangChain + OpenAI) to provide context-aware answers from your own data and the open web.
+
+It is a powerful, full-stack AI chatbot designed for advanced document analysis and web exploration. It combines high-performance web scraping (Crawl4AI), vector storage (FAISS), and LLM-powered reasoning (LangChain + OpenAI) to provide context-aware answers from your own data and the open web.
 
 ---
 
